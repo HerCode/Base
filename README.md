@@ -1,4 +1,5 @@
 //Description
+
 Prime Solo Project - Creating a Base Project
 Explain each of the components of your projects
 
@@ -15,6 +16,10 @@ styles.css: CSS stands for Cascading Style Sheets. CSS describes how HTML elemen
 README.md: A readme (or read me) file contains information about other files in a directory or archive and is commonly distributed with computer software, forming part of its documentation. Such a file is usually a text file called README.TXT, README.md, README.1ST, READ.ME, or simply README, although some software may occasionally include a README.WRI, README.RTF, or README.DOC. The name is chosen so that users unaware of the existence of this type of file would be drawn to read it.
 
 Instructions:
+
+Prime Solo Project - Creating a Base Project
+
+>>>>>>> d8b0acac48e8e570af483bddecc113b8e4df8236
 Creating base projects is something that will serve you well. With what you
 know now, we are going to create a build that encompasses the basics. We will
 be adding onto it throughout the program, so while considering this setup process,
